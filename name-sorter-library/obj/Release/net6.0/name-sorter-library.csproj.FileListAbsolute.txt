@@ -1,0 +1,14 @@
+C:\Users\rajesh\source\repos\name-sorter-library\bin\Release\net6.0\Document\sorted-names-list.txt
+C:\Users\rajesh\source\repos\name-sorter-library\bin\Release\net6.0\Document\unsorted-names-list.txt
+C:\Users\rajesh\source\repos\name-sorter-library\bin\Release\net6.0\name-sorter-library.deps.json
+C:\Users\rajesh\source\repos\name-sorter-library\bin\Release\net6.0\name-sorter-library.dll
+C:\Users\rajesh\source\repos\name-sorter-library\bin\Release\net6.0\ref\name-sorter-library.dll
+C:\Users\rajesh\source\repos\name-sorter-library\bin\Release\net6.0\name-sorter-library.pdb
+C:\Users\rajesh\source\repos\name-sorter-library\obj\Release\net6.0\name-sorter-library.csproj.AssemblyReference.cache
+C:\Users\rajesh\source\repos\name-sorter-library\obj\Release\net6.0\name-sorter-library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajesh\source\repos\name-sorter-library\obj\Release\net6.0\name-sorter-library.AssemblyInfoInputs.cache
+C:\Users\rajesh\source\repos\name-sorter-library\obj\Release\net6.0\name-sorter-library.AssemblyInfo.cs
+C:\Users\rajesh\source\repos\name-sorter-library\obj\Release\net6.0\name-sorter-library.csproj.CoreCompileInputs.cache
+C:\Users\rajesh\source\repos\name-sorter-library\obj\Release\net6.0\name-sorter-library.dll
+C:\Users\rajesh\source\repos\name-sorter-library\obj\Release\net6.0\ref\name-sorter-library.dll
+C:\Users\rajesh\source\repos\name-sorter-library\obj\Release\net6.0\name-sorter-library.pdb
