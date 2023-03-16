@@ -10,7 +10,17 @@
       "ProjectGuid": "57f2e223-3d61-40e8-b3ab-29daf51dd209",
       "DisplayName": "name-sorter-test",
       "ColorIndex": 1
+    },
+    "26238735-d70a-460f-94bc-cae44fc16952": {
+      "ProjectGuid": "26238735-d70a-460f-94bc-cae44fc16952",
+      "DisplayName": "name-sorter-library",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }

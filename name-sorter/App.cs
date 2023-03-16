@@ -25,9 +25,9 @@ namespace name_sorter
             _ = await _fileService.WriteToFile(OutPutFileName, names);
 
             //read the output file 
-            names = await _fileService.ReadFromFile(OutPutFileName);
+            var sortedNames = await _fileService.ReadFromFile(OutPutFileName);
 
-            foreach (var name in names)
+            foreach (var name in sortedNames)
             {
                 Console.WriteLine(name.ToString());
             }

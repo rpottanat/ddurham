@@ -1,5 +1,4 @@
-﻿using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.DependencyInjection;
+﻿using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using name_sorter;
 using name_sorter_library.Service;
@@ -21,11 +20,7 @@ catch (Exception ex)
 
 static IHostBuilder CreateHostBuilder(string[] args)
 {
-    return Host.CreateDefaultBuilder(args)
-         .ConfigureAppConfiguration(config =>
-         {
-             config.AddJsonFile("appsettings.json", optional: true, reloadOnChange: true);
-         })
+    return Host.CreateDefaultBuilder(args)        
          .ConfigureServices(services =>
          {
              services.AddScoped<IFileService, FileService>();    
