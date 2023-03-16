@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "v3luCps3Ge/aX1DRjV7uTXzBXkS80118ntpRwR+DqUUTolsuyWJrmk8XokAJnlEKAgh3zGXRtAU6geyio7knaw==",
+  "dgSpecHash": "/sq69k5wLahOSVNdqqV/tcuWDHxX28sT63Lqw1mj5OC42rQk7Srhp6AY+jL9hXDtr9o9YB+fVvRaLovdCtRRjQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\rajesh\\source\\sort\\ddurham\\name-sorter-test\\name-sorter-test.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\rajesh\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\rajesh\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\rajesh\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",
     "C:\\Users\\rajesh\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
@@ -14,6 +15,7 @@
     "C:\\Users\\rajesh\\.nuget\\packages\\microsoft.testplatform.objectmodel\\16.11.0\\microsoft.testplatform.objectmodel.16.11.0.nupkg.sha512",
     "C:\\Users\\rajesh\\.nuget\\packages\\microsoft.testplatform.testhost\\16.11.0\\microsoft.testplatform.testhost.16.11.0.nupkg.sha512",
     "C:\\Users\\rajesh\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\rajesh\\.nuget\\packages\\moq\\4.18.4\\moq.4.18.4.nupkg.sha512",
     "C:\\Users\\rajesh\\.nuget\\packages\\mstest.testadapter\\2.2.7\\mstest.testadapter.2.2.7.nupkg.sha512",
     "C:\\Users\\rajesh\\.nuget\\packages\\mstest.testframework\\2.2.7\\mstest.testframework.2.2.7.nupkg.sha512",
     "C:\\Users\\rajesh\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
@@ -42,6 +44,7 @@
     "C:\\Users\\rajesh\\.nuget\\packages\\system.console\\4.3.0\\system.console.4.3.0.nupkg.sha512",
     "C:\\Users\\rajesh\\.nuget\\packages\\system.diagnostics.debug\\4.3.0\\system.diagnostics.debug.4.3.0.nupkg.sha512",
     "C:\\Users\\rajesh\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.3.0\\system.diagnostics.diagnosticsource.4.3.0.nupkg.sha512",
+    "C:\\Users\\rajesh\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
     "C:\\Users\\rajesh\\.nuget\\packages\\system.diagnostics.textwritertracelistener\\4.3.0\\system.diagnostics.textwritertracelistener.4.3.0.nupkg.sha512",
     "C:\\Users\\rajesh\\.nuget\\packages\\system.diagnostics.tools\\4.3.0\\system.diagnostics.tools.4.3.0.nupkg.sha512",
     "C:\\Users\\rajesh\\.nuget\\packages\\system.diagnostics.tracesource\\4.3.0\\system.diagnostics.tracesource.4.3.0.nupkg.sha512",

@@ -65,8 +65,7 @@ namespace name_sorter_library.Service
                         .ThenBy(n => n.GivenNames[0])
                         .ThenBy(n => n.GivenNames.ElementAtOrDefault(1))
                         .ThenBy(n => n.GivenNames.ElementAtOrDefault(2))
-                        .ToList();
-            _log.LogInformation($"Read all the names from the file and sorted {inputFilePath}.");
+                        .ToList();          
 
             return names;
         }

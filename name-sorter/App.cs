@@ -4,25 +4,27 @@ namespace name_sorter
 {
     public class App
     {
-        private readonly IFileService _fileService;
         private const string OutPutFileName = $"Document\\sorted-names-list.txt";
-        private const string filePath = $"Document\\unsorted-names-list.txt";
+        private readonly IFileService _fileService;
 
-        public App(IFileService fileService )
+        public App(IFileService fileService)
         {
             _fileService = fileService;
         }
 
         internal async Task Run(string[] args)
         {
-           // string filePath = args[0];           
+            string filePath = args[0];
 
-          //  filePath = $"Document\\{filePath}";
+            filePath = $"Document\\{filePath}";
 
+            //read the input file and sort it
             var names = await _fileService.ReadFromFile(filePath);
 
+            //write the result to outputfile
             _ = await _fileService.WriteToFile(OutPutFileName, names);
 
+            //read the output file 
             names = await _fileService.ReadFromFile(OutPutFileName);
 
             foreach (var name in names)
