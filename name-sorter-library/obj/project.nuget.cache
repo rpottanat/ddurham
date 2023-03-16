@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7JjMPjQr27SQLEJnanDNaiD5LRZFOyE0hpchrmBvmC0xtkzju/xaC7iR5BsRqm6AVLaaMr2JLFWrUrhld50/dA==",
+  "dgSpecHash": "C5uibSgHeyKUQ7euYqRIUvCbc3QNj1GwPGQm6yEz6g5j+Ver7PbbANFSH4sdeOXUlYi0SEKmFW0h8W8zfviTFg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rajesh\\source\\repos\\name-sorter-library\\name-sorter-library.csproj",
+  "projectFilePath": "C:\\Users\\rajesh\\source\\sort\\ddurham\\name-sorter-library\\name-sorter-library.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rajesh\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512"
   ],
