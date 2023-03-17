@@ -57,15 +57,16 @@ Shelby Nathan Yoder
 
 
 
-##### Criteria
-
-* Executing the program in the following way;
-
+##### Steps to execute
 
 ```
 C:>..\..\Publish> name-sorter ./unsorted-names-list.txt
 
 ```
+
+#### Whats happening background
+
+* Read the unsorted-names-list.txt file and sort
 
 * Store the sorted names in a file in the working directory called sorted-names-list.txt.
 
