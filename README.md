@@ -70,7 +70,8 @@ C:>..\..\Publish> name-sorter ./unsorted-names-list.txt
 
 The files stored in **Document** folder
 
-#### Whats happening background
+
+#### Whats happening in background
 
 * Read the unsorted-names-list.txt file and sort
 
