@@ -66,6 +66,10 @@ C:>..\..\Publish> name-sorter ./unsorted-names-list.txt
 
 ```
 
+### File path (unsorted-names-list.txt and sorted-names-list.txt file)
+
+The files stored in **Document** folder
+
 #### Whats happening background
 
 * Read the unsorted-names-list.txt file and sort
