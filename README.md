@@ -57,7 +57,7 @@ Shelby Nathan Yoder
 
 
 
-##### Steps to execute
+#### Steps to execute
 
 ```
 C:>..\..\Publish> name-sorter ./unsorted-names-list.txt
